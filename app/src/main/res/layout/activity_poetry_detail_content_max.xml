@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerInParent="true"
+        android:paddingStart="20dp"
+        android:paddingEnd="20dp"
+        tools:context=".PoetryDetailContentActivity">
+
+    <TextView
+            android:id="@+id/poetry_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="30dp"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:textIsSelectable="true"
+            tools:text="静夜思"/>
+    <TextView
+            android:id="@+id/poetry_author"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/poetry_title"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="4dp"
+            android:textColor="@color/black"
+            android:textSize="18sp"
+            android:textIsSelectable="true"
+            tools:text="唐·李白"
+    />
+    <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/poetry_author"
+            android:scrollbars="none"
+            android:overScrollMode="never"
+            android:paddingTop="2dp"
+            android:layout_marginBottom="20dp">
+        <TextView
+                android:id="@+id/poetry_content"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_below="@+id/poetry_author"
+                android:textSize="18sp"
+                android:textColor="@color/black"
+                android:textIsSelectable="true"
+                tools:text="123as1dasda;lskdl;aksl;dk;laskdl;aks;dlk;laskd;lkasl;dk;lask"
+        />
+    </ScrollView>
+
+</RelativeLayout>
