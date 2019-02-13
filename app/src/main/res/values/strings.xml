@@ -1,9 +1,11 @@
 <resources>
-    <string name="app_name">PoetryWidget</string>
+    <string name="app_name">遗珠弃壁</string>
     <string name="widget_label_black">遗珠弃壁_黑</string>
     <string name="widget_label_white">遗珠弃壁_白</string>
-    <string name="poetry_example">举头望明月举头望明月，低头思故乡低头思故乡。1231212312313212</string>
+    <string name="poetry_example">举头望明月，低头思故乡。</string>
     <string name="poetry_error">未知错误</string>
+
+    <string name="tip">请先在桌面空白处添加遗珠弃壁的小部件</string>
 
     <string name="setting_enable_click">是否开启点击刷新</string>
     <string name="setting_enable_auto_fresh">是否开启自动刷新</string>

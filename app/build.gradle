@@ -7,13 +7,21 @@ apply plugin: 'kotlin-android-extensions'
 apply plugin: 'org.greenrobot.greendao'
 
 android {
+    signingConfigs {
+        release {
+            keyAlias 'key01'
+            keyPassword 'c3z26x24'
+            storeFile file('C:/Users/czx/Documents/caizhixing.jks')
+            storePassword 'c3z26x24'
+        }
+    }
     compileSdkVersion 28
     defaultConfig {
         applicationId "com.caizhixing.poetrywidget"
         minSdkVersion 21
         targetSdkVersion 28
         versionCode 1
-        versionName "1.0"
+        versionName "0.1"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
     buildTypes {

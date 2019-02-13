@@ -5,9 +5,9 @@ import android.os.Bundle
 import android.support.design.widget.Snackbar
 import android.support.v7.app.AppCompatActivity
 import android.support.v7.widget.LinearLayoutManager
-import android.view.Menu
 import android.view.MenuItem
-import com.caizhixing.poetry.db.PoeteryDao
+import android.view.View
+import com.caizhixing.poetry.db.PoetryDao
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() ,PoetryAdapter.RemovePoetryListener{
@@ -15,10 +15,10 @@ class MainActivity : AppCompatActivity() ,PoetryAdapter.RemovePoetryListener{
     private lateinit var mAdapter : PoetryAdapter
 
     companion object {
-         var data :ArrayList<Poetery> = arrayListOf()
+         var data :ArrayList<Poetry> = arrayListOf()
     }
 
-    override fun delete(poetry: Poetery) {
+    override fun delete(poetry: Poetry) {
         Snackbar.make(rcv,"取消",Snackbar.LENGTH_SHORT)
             .setAction("删除") {
                 deletePoetry(poetry)
@@ -30,18 +30,22 @@ class MainActivity : AppCompatActivity() ,PoetryAdapter.RemovePoetryListener{
     override fun deleteAll() {
 
     }
-
-    override fun onCreateOptionsMenu(menu: Menu?): Boolean {
-        menuInflater.inflate(R.menu.setting_menu, menu)
-        return true
-    }
+//
+//    override fun onCreateOptionsMenu(menu: Menu?): Boolean {
+//        menuInflater.inflate(R.menu.setting_menu, menu)
+//        return true
+//    }
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         setSupportActionBar(findViewById(R.id.my_toolbar))
         Utils.fixStatusBar(this)
+        data.clear()
         data.addAll(queryAllData())
+        if(data.size == 0){
+            tip_text.visibility = View.VISIBLE
+        }
         mAdapter= PoetryAdapter(data)
         mAdapter.setListener(this)
         rcv.adapter = mAdapter
@@ -61,27 +65,27 @@ class MainActivity : AppCompatActivity() ,PoetryAdapter.RemovePoetryListener{
         }
     }
 
-    private fun getPoetryDao(): PoeteryDao {
-        return GreenDaoManager.getInstance().session.poeteryDao
+    private fun getPoetryDao(): PoetryDao {
+        return GreenDaoManager.getInstance().session.poetryDao
     }
 
     private fun deleteAllPotry() {
         getPoetryDao().deleteAll()
     }
 
-    private fun deletePoetry(poetry: Poetery) {
+    private fun deletePoetry(poetry: Poetry) {
         getPoetryDao().delete(poetry)
     }
 
-//    private fun query(where: String, vararg params: String): List<Poetery> {
+//    private fun query(where: String, vararg params: String): List<Poetry> {
 //        return getPoetryDao().queryRaw(where, params)
 //    }
 
-    private fun save(poetry: Poetery) {
+    private fun save(poetry: Poetry) {
         getPoetryDao().insertOrReplace(poetry)
     }
 
-    private fun queryAllData(): List<Poetery> {
+    private fun queryAllData(): List<Poetry> {
         return getPoetryDao().loadAll()
     }
 }

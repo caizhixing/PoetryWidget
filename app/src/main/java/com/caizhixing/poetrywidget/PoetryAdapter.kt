@@ -11,12 +11,12 @@ import android.widget.TextView
  * Created on 2019/2/12.
  * Author caizhixing
  */
-class PoetryAdapter(private var data: List<Poetery>) : RecyclerView.Adapter<PoetryAdapter.PoetryViewHolder>() {
+class PoetryAdapter(private var data: List<Poetry>) : RecyclerView.Adapter<PoetryAdapter.PoetryViewHolder>() {
 
     private lateinit var mListener: RemovePoetryListener
 
     interface RemovePoetryListener {
-        fun delete(poetry: Poetery)
+        fun delete(poetry: Poetry)
         fun deleteAll()
     }
 

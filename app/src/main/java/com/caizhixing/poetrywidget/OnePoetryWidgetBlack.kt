@@ -8,7 +8,7 @@ import android.content.Context
 import android.content.Intent
 import android.util.Log
 import android.widget.RemoteViews
-import com.caizhixing.poetry.db.PoeteryDao
+import com.caizhixing.poetry.db.PoetryDao
 import com.jinrishici.sdk.android.JinrishiciClient
 import com.jinrishici.sdk.android.listener.JinrishiciCallback
 import com.jinrishici.sdk.android.model.JinrishiciRuntimeException
@@ -61,7 +61,7 @@ class OnePoetryWidgetBlack : AppWidgetProvider() {
         client.getOneSentenceBackground(object : JinrishiciCallback {
             override fun done(poetySentence: PoetySentence?) {
                 if (poetySentence != null) {
-                    remoteViews.setTextViewText(R.id.poetry_text_view, poetySentence.data.content+ context.getString(R.string.poetry_example))
+                    remoteViews.setTextViewText(R.id.poetry_text_view, poetySentence.data.content)
                     appWidgetManager.updateAppWidget(id, remoteViews)
                     Log.d(TAG, "done ${poetySentence.data.content}")
                     saveToDatabase(poetySentence)
@@ -78,7 +78,7 @@ class OnePoetryWidgetBlack : AppWidgetProvider() {
     }
 
     private fun saveToDatabase(poetrySentence: PoetySentence) {
-        var poetry = Poetery()
+        var poetry = Poetry()
         poetry.displayContent = poetrySentence.data.content
         poetry.title = poetrySentence.data.origin.title
         poetry.dynasty = poetrySentence.data.origin.dynasty
@@ -92,11 +92,11 @@ class OnePoetryWidgetBlack : AppWidgetProvider() {
         save(poetry)
     }
 
-    private fun getPoetryDao(): PoeteryDao {
-        return GreenDaoManager.getInstance().session.poeteryDao
+    private fun getPoetryDao(): PoetryDao {
+        return GreenDaoManager.getInstance().session.poetryDao
     }
 
-    private fun save(poetry: Poetery) {
+    private fun save(poetry: Poetry) {
         getPoetryDao().insertOrReplace(poetry)
     }
 
