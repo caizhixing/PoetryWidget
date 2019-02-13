@@ -1,7 +1,8 @@
 <resources>
     <string name="app_name">PoetryWidget</string>
-    <string name="widget_label">一言</string>
-    <string name="poetry_example">举头望明月，低头思故乡。</string>
+    <string name="widget_label_black">遗珠弃壁_黑</string>
+    <string name="widget_label_white">遗珠弃壁_白</string>
+    <string name="poetry_example">举头望明月举头望明月，低头思故乡低头思故乡。1231212312313212</string>
     <string name="poetry_error">未知错误</string>
 
     <string name="setting_enable_click">是否开启点击刷新</string>
@@ -9,4 +10,5 @@
     <string name="setting_auto_fresh_period">自动刷新时间间隔</string>
     <string name="setting_text_size">字体大小</string>
     <string name="setting_text_color">字体颜色</string>
+    <string name="setting">设置</string>
 </resources>

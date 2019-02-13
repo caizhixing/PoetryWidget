@@ -6,12 +6,58 @@
     </shared>
   </component>
   <component name="AndroidLogFilters">
-    <option name="TOOL_WINDOW_CUSTOM_FILTER" value="OnePoetryWidget" />
-    <option name="TOOL_WINDOW_LOG_LEVEL" value="debug" />
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="error" />
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a2a856b3-30ad-4b4d-816d-2d0bcee7ea61" name="Default Changelist" comment="" />
+    <list default="true" id="930d3d0d-f276-4b12-b336-cb69ca232c5a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/assetWizardSettings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_cardview_v7_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_design_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_transition_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/caizhixing/poetrywidget/OnePoetryWidgetWhite.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/caizhixing/poetrywidget/PoetryFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/caizhixing/poetrywidget/Utils.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/preview_text_white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_setting_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_poetry_view_detail.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/view_poetry_text_widget_white.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/menu/setting_menu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/xml/poetry_widget_provider_white.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.1/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.1/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.1/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.1/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.1/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/caizhixing/poetrywidget/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/caizhixing/poetrywidget/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/caizhixing/poetrywidget/OnePoetryWidget.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/caizhixing/poetrywidget/OnePoetryWidgetBlack.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/caizhixing/poetrywidget/PoetryAdapter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/caizhixing/poetrywidget/PoetryAdapter.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/caizhixing/poetrywidget/PoetryDetailContentActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/caizhixing/poetrywidget/PoetryDetailContentActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/caizhixing/poetrywidget/SettingActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/caizhixing/poetrywidget/SettingActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/preview.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/preview_text_black.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_poetry_detail_content.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_poetry_detail_content.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_poetry_detail_content_max.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_setting.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_setting.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/view_poetry_item.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/view_poetry_item.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/view_poetry_text.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/view_poetry_text_widget_black.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/view_setting_checkbox_item.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/view_setting_switch_item.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/xml/poetry_widget_provider.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/xml/poetry_widget_provider_black.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,53 +77,42 @@
     </system>
   </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="-2144531044">
+    <session id="1767755795">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.4" value="1" />
-          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.8" value="1" />
           <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="class" value="3" />
-          <entry key="gradle" value="10" />
-          <entry key="java" value="53" />
-          <entry key="kt" value="30" />
-          <entry key="png" value="2" />
-          <entry key="properties" value="1" />
+          <entry key="class" value="4" />
+          <entry key="java" value="17" />
+          <entry key="kt" value="37" />
+          <entry key="png" value="1" />
           <entry key="xml" value="57" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CLASS" value="3" />
-          <entry key="Groovy" value="10" />
-          <entry key="Image" value="2" />
-          <entry key="JAVA" value="53" />
-          <entry key="Kotlin" value="30" />
-          <entry key="Properties" value="1" />
+          <entry key="CLASS" value="4" />
+          <entry key="Image" value="1" />
+          <entry key="JAVA" value="17" />
+          <entry key="Kotlin" value="37" />
           <entry key="XML" value="57" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="gradle" value="56" />
-          <entry key="java" value="267" />
-          <entry key="kt" value="3749" />
-          <entry key="txt" value="8" />
-          <entry key="xml" value="2020" />
+          <entry key="kt" value="1550" />
+          <entry key="xml" value="504" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Groovy" value="56" />
-          <entry key="JAVA" value="267" />
-          <entry key="Kotlin" value="3749" />
-          <entry key="PLAIN_TEXT" value="8" />
-          <entry key="XML" value="2020" />
+          <entry key="Kotlin" value="1550" />
+          <entry key="XML" value="504" />
         </counts>
       </usages-collector>
     </session>
@@ -85,25 +120,26 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/caizhixing/poetrywidget/PoetryAdapter.kt">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/view_poetry_text_widget_white.xml">
+          <provider editor-type-id="android-designer2" />
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="449">
-              <caret line="24" column="42" lean-forward="true" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
+            <state relative-caret-position="285">
+              <caret line="15" column="17" lean-forward="true" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
               <folding>
-                <element signature="e#37#233#0" expanded="true" />
+                <element signature="e#564#588#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/view_poetry_item.xml">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/view_poetry_text_widget_black.xml">
+          <provider editor-type-id="android-designer2" />
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" column="42" selection-start-line="3" selection-start-column="42" selection-end-line="3" selection-end-column="42" />
+            <state relative-caret-position="190">
+              <caret line="10" column="46" lean-forward="true" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
             </state>
           </provider>
-          <provider editor-type-id="android-designer2" />
         </entry>
       </file>
     </leaf>
@@ -112,21 +148,19 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="resourceFile" />
+        <option value="Kotlin Object" />
         <option value="layoutResourceFile" />
-        <option value="valueResourceFile" />
-        <option value="Kotlin File" />
-        <option value="Class" />
         <option value="Kotlin Class" />
-        <option value="layoutResourceFile_vertical" />
       </list>
     </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>setText</find>
-      <find>mode</find>
-      <find>getId</find>
+      <find>沧海</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
@@ -2558,37 +2592,34 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/app/src/main/res/xml/poetry_widget_provider.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/values/colors.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/view_setting_item.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/caizhixing/poetrywidget/SettingActivity.java" />
-        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/caizhixing/poetrywidget/SettingActivity.kt" />
-        <option value="$PROJECT_DIR$/build.gradle" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/caizhixing/poetrywidget/CustomApplication.kt" />
-        <option value="$PROJECT_DIR$/app/build.gradle" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/caizhixing/poetrywidget/GreenDaoManager.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/caizhixing/poetrywidget/MainActivity.kt" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/caizhixing/poetrywidget/Poetery.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/caizhixing/poetrywidget/OnePoetryWidget.kt" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_poetry_detail_content.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_poetry_detail_content_max.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/caizhixing/poetrywidget/PoetryDetailContentActivity.kt" />
-        <option value="$PROJECT_DIR$/app/src/main/res/drawable/selectable_item_background.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/menu/setting_menu.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/caizhixing/poetrywidget/Utils.kt" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_setting.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/view_poetry_text.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/view_setting_checkbox_item.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/view_setting_switch_item.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/view_poetry_item.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/caizhixing/poetrywidget/SettingActivity.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_poetry_view_detail.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/caizhixing/poetrywidget/MainActivity.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/caizhixing/poetrywidget/PoetryDetailContentActivity.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_poetry_detail_content.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/caizhixing/poetrywidget/PoetryFragment.kt" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/caizhixing/poetrywidget/PoetryAdapter.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/view_poetry_text_widget.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/colors.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/caizhixing/poetrywidget/OnePoetryWidgetWhite.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/xml/poetry_widget_provider_black.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/xml/poetry_widget_provider_white.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/caizhixing/poetrywidget/OnePoetryWidgetBlack.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/view_poetry_item.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/view_poetry_text_widget_black.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/view_poetry_text_widget_white.xml" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1928" />
+    <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
@@ -2598,6 +2629,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -2674,70 +2708,48 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="drawable-v24" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PoetryWidget" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PoetryWidget" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="drawable-xxhdpi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PoetryWidget" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PoetryWidget" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
               <item name="layout" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PoetryWidget" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="PoetryWidget" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="menu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PoetryWidget" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PoetryWidget" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="xml" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView">
-        <subPane>
-          <expand>
-            <path>
-              <item name="PoetryWidget" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-            </path>
-            <path>
-              <item name="PoetryWidget" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-            </path>
-            <path>
-              <item name="PoetryWidget" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="caizhixing" type="cbb59c9e:AndroidPsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PoetryWidget" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="caizhixing" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="poetrywidget" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PoetryWidget" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="poetrywidget" type="cbb59c9e:AndroidPsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PoetryWidget" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="poetrywidget" type="cbb59c9e:AndroidPsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PoetryWidget" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="generatedJava" type="edd41e36:AndroidSourceTypeNode" />
-            </path>
-            <path>
-              <item name="PoetryWidget" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="generatedJava" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="poetrywidget" type="cbb59c9e:AndroidPsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -2749,18 +2761,19 @@
     <property name="android.project.structure.proportion" value="0.15" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="device.picker.selection" value="c2b048f1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="not.eligible.for.single.variant.sync" value="true" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
-    <key name="android.template.packageName">
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
       <recent name="com.caizhixing.poetrywidget" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\PoetryWidget\app\src\main\res\drawable" />
-      <recent name="E:\PoetryWidget\app\src\main\res\layout" />
-      <recent name="E:\PoetryWidget\app\src\main\res\drawable-xxhdpi" />
+      <recent name="E:\gitdemo\PoetryWidget\app\src\main\res\drawable-xxhdpi" />
+      <recent name="E:\gitdemo\PoetryWidget\app\src\main\res\xml" />
+      <recent name="E:\gitdemo\PoetryWidget\app\src\main\res\layout" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -2874,53 +2887,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <module name="PoetryWidget" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
-      <module name="PoetryWidget" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <properties />
@@ -2935,11 +2901,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a2a856b3-30ad-4b4d-816d-2d0bcee7ea61" name="Default Changelist" comment="" />
-      <created>1549857850217</created>
+      <changelist id="930d3d0d-f276-4b12-b336-cb69ca232c5a" name="Default Changelist" comment="" />
+      <created>1549970174517</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1549857850217</updated>
+      <updated>1549970174517</updated>
     </task>
     <servers />
   </component>
@@ -2948,32 +2914,32 @@
     <editor active="true" />
     <layout>
       <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.20842217" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.22121535" />
       <window_info id="Structure" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Build Variants" order="4" side_tool="true" />
       <window_info id="Image Layers" order="5" />
       <window_info id="Designer" order="6" />
       <window_info id="Capture Tool" order="7" />
+      <window_info anchor="bottom" id="Find" weight="0.32998884" />
       <window_info anchor="bottom" id="CheckStyle" order="0" />
       <window_info anchor="bottom" id="Run" order="1" />
       <window_info anchor="bottom" id="TODO" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.48663697" />
-      <window_info anchor="bottom" id="Logcat" order="4" weight="0.3351893" />
-      <window_info anchor="bottom" id="Terminal" order="5" weight="0.32962137" />
-      <window_info anchor="bottom" id="Event Log" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Flutter Performance" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Build" order="9" weight="0.32628062" />
-      <window_info anchor="bottom" id="Find" order="10" weight="0.32962137" />
-      <window_info anchor="bottom" id="FindBugs-IDEA" order="11" />
-      <window_info anchor="bottom" id="Android Profiler" order="12" />
-      <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" weight="0.32995737" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.42809364" />
+      <window_info anchor="bottom" id="Terminal" order="4" weight="0.32998884" />
+      <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Flutter Performance" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Build" order="8" weight="0.32998884" />
+      <window_info anchor="bottom" id="Logcat" order="9" weight="0.32998884" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="10" />
+      <window_info anchor="bottom" id="Android Profiler" order="11" />
+      <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
       <window_info anchor="right" id="Gradle" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info anchor="right" id="Flutter Inspector" order="4" />
-      <window_info anchor="right" id="Preview" order="5" weight="0.32995737" />
+      <window_info anchor="right" id="Preview" order="5" visible="true" weight="0.32995737" />
       <window_info anchor="right" id="Flutter Outline" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
@@ -2982,881 +2948,364 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/app/src/main/java/com/caizhixing/poetrywidget/OnePoetryWidget.kt</url>
-          <line>113</line>
-          <properties />
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/app/src/main/java/com/caizhixing/poetrywidget/OnePoetryWidget.kt</url>
-          <line>81</line>
-          <properties />
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
     <watches-manager>
       <configuration name="Remote">
-        <watch expression="getPoetryDao().loadAll()" language="kotlin" />
-        <watch expression="intent.getParcelableExtra&lt;Poetery&gt;(&quot;data&quot;)" language="kotlin" />
-        <watch expression="poetry_text_view.text" language="kotlin" custom="import kotlinx.android.synthetic.main.view_poetry_text.*" />
+        <watch expression="mData.content" language="kotlin" />
       </configuration>
     </watches-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="watch">
       <expression>
-        <expression-string>poetry_text_view.text</expression-string>
-        <language-id>kotlin</language-id>
-        <custom-info>import kotlinx.android.synthetic.main.view_poetry_text.*</custom-info>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>intent.getParcelableExtra&lt;Poetery&gt;(&quot;data&quot;)</expression-string>
+        <expression-string>mData.content</expression-string>
         <language-id>kotlin</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>getPoetryDao().loadAll()</expression-string>
+        <expression-string>mData[4]</expression-string>
+        <language-id>kotlin</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>data[4]</expression-string>
         <language-id>kotlin</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/caizhixing/poetry/db/PoeteryDao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+        <state relative-caret-position="209">
+          <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/dimens.xml">
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.greenrobot/greendao/3.2.2/4b0a727cd9b59a7550794f3bec8024cf271b15d/greendao-3.2.2-sources.jar!/org/greenrobot/greendao/AbstractDaoSession.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="47" selection-start-line="2" selection-start-column="47" selection-end-line="2" selection-end-column="47" />
+        <state relative-caret-position="1273">
+          <caret line="96" column="20" selection-start-line="96" selection-start-column="20" selection-end-line="96" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/caizhixing/poetrywidget/SettingActivity.java" />
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.21/b8815e48fb45e94821287365bd9ce8623f459ac7/kotlin-stdlib-1.3.21-sources.jar!/kotlin/Collections.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Android/Sdk/sources/android-28/android/widget/RadioButton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="47" column="41" selection-start-line="47" selection-start-column="41" selection-end-line="47" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Android/Sdk/sources/android-28/android/widget/TextView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="321" column="31" selection-start-line="321" selection-start-column="31" selection-end-line="321" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Android/Sdk/sources/android-28/android/widget/Button.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="515">
-          <caret line="84" column="33" selection-start-line="84" selection-start-column="33" selection-end-line="84" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Android/Sdk/sources/android-28/android/widget/RadioGroup.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="240" column="62" selection-start-line="240" selection-start-column="62" selection-end-line="240" selection-end-column="62" />
-          <folding>
-            <element signature="e#8090#8091#0" expanded="true" />
-            <element signature="e#8141#8142#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Android/Sdk/sources/android-28/android/widget/CompoundButton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="209" column="28" selection-start-line="209" selection-start-column="28" selection-end-line="209" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Android/Sdk/sources/android-28/android/content/SharedPreferences.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="969">
-          <caret line="349" column="4" lean-forward="true" selection-start-line="349" selection-start-column="4" selection-end-line="349" selection-end-column="4" />
-          <folding>
-            <element signature="docComment;class#SharedPreferences#0" />
-            <element signature="docComment;class#OnSharedPreferenceChangeListener#0;class#SharedPreferences#0" />
-            <element signature="class#OnSharedPreferenceChangeListener#0;class#SharedPreferences#0" />
-            <element signature="docComment;method#onSharedPreferenceChanged#0;class#OnSharedPreferenceChangeListener#0;class#SharedPreferences#0" />
-            <element signature="docComment;class#Editor#0;class#SharedPreferences#0" />
-            <element signature="class#Editor#0;class#SharedPreferences#0" />
-            <element signature="docComment;method#putString#0;class#Editor#0;class#SharedPreferences#0" />
-            <element signature="docComment;method#putStringSet#0;class#Editor#0;class#SharedPreferences#0" />
-            <element signature="docComment;method#putInt#0;class#Editor#0;class#SharedPreferences#0" />
-            <element signature="docComment;method#putLong#0;class#Editor#0;class#SharedPreferences#0" />
-            <element signature="docComment;method#putFloat#0;class#Editor#0;class#SharedPreferences#0" />
-            <element signature="docComment;method#putBoolean#0;class#Editor#0;class#SharedPreferences#0" />
-            <element signature="docComment;method#remove#0;class#Editor#0;class#SharedPreferences#0" />
-            <element signature="docComment;method#clear#0;class#Editor#0;class#SharedPreferences#0" />
-            <element signature="docComment;method#commit#0;class#Editor#0;class#SharedPreferences#0" />
-            <element signature="docComment;method#apply#0;class#Editor#0;class#SharedPreferences#0" />
-            <element signature="docComment;method#getString#0;class#SharedPreferences#0" />
-            <element signature="docComment;method#getStringSet#0;class#SharedPreferences#0" />
-            <element signature="docComment;method#getInt#0;class#SharedPreferences#0" />
-            <element signature="docComment;method#getLong#0;class#SharedPreferences#0" />
-            <element signature="docComment;method#getFloat#0;class#SharedPreferences#0" />
-            <element signature="docComment;method#getBoolean#0;class#SharedPreferences#0" />
-            <element signature="docComment;method#contains#0;class#SharedPreferences#0" />
-            <element signature="docComment;method#registerOnSharedPreferenceChangeListener#0;class#SharedPreferences#0" />
-            <element signature="docComment;method#unregisterOnSharedPreferenceChangeListener#0;class#SharedPreferences#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Android/Sdk/sources/android-28/android/content/Context.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="788" column="38" selection-start-line="788" selection-start-column="38" selection-end-line="788" selection-end-column="38" />
-          <folding>
-            <element signature="docComment;class#Context#0" />
-            <element signature="e#3311#3323#0" />
-            <element signature="e#3328#3505#0" />
-            <element signature="e#3584#3596#0" />
-            <element signature="e#3601#3785#0" />
-            <element signature="e#3871#3883#0" />
-            <element signature="e#3888#4126#0" />
-            <element signature="e#4455#5372#0" />
-            <element signature="e#5452#6374#0" />
-            <element signature="e#6455#6671#0" />
-            <element signature="e#6727#7945#0" />
-            <element signature="e#8024#8351#0" />
-            <element signature="e#8427#8749#0" />
-            <element signature="e#8821#8833#0" />
-            <element signature="e#8838#9160#0" />
-            <element signature="e#9247#10469#0" />
-            <element signature="e#10530#10998#0" />
-            <element signature="e#11060#11637#0" />
-            <element signature="e#11701#12073#0" />
-            <element signature="e#12135#12577#0" />
-            <element signature="e#12647#12945#0" />
-            <element signature="e#13009#13316#0" />
-            <element signature="e#13375#13722#0" />
-            <element signature="e#13792#14194#0" />
-            <element signature="e#14261#14434#0" />
-            <element signature="e#14508#14704#0" />
-            <element signature="e#14784#14929#0" />
-            <element signature="e#15013#15389#0" />
-            <element signature="e#15461#15923#0" />
-            <element signature="e#15996#16613#0" />
-            <element signature="e#16674#16883#0" />
-            <element signature="e#16947#17095#0" />
-            <element signature="e#17160#17970#0" />
-            <element signature="e#18040#18052#0" />
-            <element signature="e#18057#18173#0" />
-            <element signature="e#18265#18374#0" />
-            <element signature="e#18448#18921#0" />
-            <element signature="e#18973#19431#0" />
-            <element signature="e#19483#19556#0" />
-            <element signature="e#19618#19690#0" />
-            <element signature="e#19754#20160#0" />
-            <element signature="e#20210#20444#0" />
-            <element signature="e#20210#20633#0" />
-            <element signature="e#20639#22165#0" />
-            <element signature="e#22224#22286#0" />
-            <element signature="e#22345#22600#0" />
-            <element signature="e#22345#22820#0" />
-            <element signature="e#22826#23368#0" />
-            <element signature="e#22826#23518#0" />
-            <element signature="e#23524#23685#0" />
-            <element signature="e#23524#23839#0" />
-            <element signature="e#23845#24030#0" />
-            <element signature="e#24163#24437#0" />
-            <element signature="e#24568#25100#0" />
-            <element signature="e#24568#25259#0" />
-            <element signature="e#25265#25771#0" />
-            <element signature="e#25903#26424#0" />
-            <element signature="e#26570#27062#0" />
-            <element signature="e#26570#27216#0" />
-            <element signature="e#27223#27570#0" />
-            <element signature="e#27632#27761#0" />
-            <element signature="e#27824#27896#0" />
-            <element signature="e#28001#28282#0" />
-            <element signature="e#28001#28425#0" />
-            <element signature="e#28431#28722#0" />
-            <element signature="e#28431#28941#0" />
-            <element signature="e#28947#29276#0" />
-            <element signature="e#28947#29461#0" />
-            <element signature="e#29467#29796#0" />
-            <element signature="e#29467#30081#0" />
-            <element signature="e#30087#30176#0" />
-            <element signature="e#30232#30285#0" />
-            <element signature="e#30336#30414#0" />
-            <element signature="e#30469#30853#0" />
-            <element signature="e#30906#30973#0" />
-            <element signature="e#31037#31409#0" />
-            <element signature="e#31468#31848#0" />
-            <element signature="e#31903#31992#0" />
-            <element signature="e#32117#32963#0" />
-            <element signature="e#33069#33929#0" />
-            <element signature="e#34033#34709#0" />
-            <element signature="e#34806#35156#0" />
-            <element signature="e#35228#35240#0" />
-            <element signature="e#35298#35717#0" />
-            <element signature="e#35824#36482#0" />
-            <element signature="e#36611#37054#0" />
-            <element signature="e#37113#37652#0" />
-            <element signature="e#37715#38263#0" />
-            <element signature="e#38333#39018#0" />
-            <element signature="e#39063#39662#0" />
-            <element signature="e#39708#40657#0" />
-            <element signature="e#40711#45545#0" />
-            <element signature="e#45634#48979#0" />
-            <element signature="e#49047#52156#0" />
-            <element signature="e#52200#54321#0" />
-            <element signature="e#54368#56130#0" />
-            <element signature="e#56176#57032#0" />
-            <element signature="e#57082#60059#0" />
-            <element signature="e#60127#60399#0" />
-            <element signature="e#60404#60413#0" />
-            <element signature="e#60483#63575#0" />
-            <element signature="e#63632#65793#0" />
-            <element signature="e#65850#66131#0" />
-            <element signature="e#66178#67277#0" />
-            <element signature="e#67349#68089#0" />
-            <element signature="e#68224#69388#0" />
-            <element signature="e#69580#70270#0" />
-            <element signature="e#70358#70722#0" />
-            <element signature="e#70785#71303#0" />
-            <element signature="e#71364#71636#0" />
-            <element signature="e#71687#71809#0" />
-            <element signature="e#71876#72000#0" />
-            <element signature="e#72068#72222#0" />
-            <element signature="e#72303#72459#0" />
-            <element signature="e#72541#72792#0" />
-            <element signature="e#72887#73143#0" />
-            <element signature="e#73241#73482#0" />
-            <element signature="e#73566#73884#0" />
-            <element signature="e#73965#74394#0" />
-            <element signature="e#73965#74655#0" />
-            <element signature="e#74661#75824#0" />
-            <element signature="e#75943#76666#0" />
-            <element signature="e#75943#76967#0" />
-            <element signature="e#76973#77709#0" />
-            <element signature="e#76973#78019#0" />
-            <element signature="e#78025#78199#0" />
-            <element signature="e#78282#78601#0" />
-            <element signature="e#78687#79954#0" />
-            <element signature="e#80056#81608#0" />
-            <element signature="e#80056#81875#0" />
-            <element signature="e#81881#82551#0" />
-            <element signature="e#82807#84162#0" />
-            <element signature="e#84444#85433#0" />
-            <element signature="e#85514#86770#0" />
-            <element signature="e#86901#88187#0" />
-            <element signature="e#88309#89649#0" />
-            <element signature="e#89794#91186#0" />
-            <element signature="e#91349#91528#0" />
-            <element signature="e#91639#92660#0" />
-            <element signature="e#92797#94843#0" />
-            <element signature="e#95165#97347#0" />
-            <element signature="e#97690#97954#0" />
-            <element signature="e#98208#98569#0" />
-            <element signature="e#98760#99447#0" />
-            <element signature="e#99675#100514#0" />
-            <element signature="e#100519#100529#0" />
-            <element signature="e#100783#101552#0" />
-            <element signature="e#101791#103347#0" />
-            <element signature="e#103749#103980#0" />
-            <element signature="e#104373#104627#0" />
-            <element signature="e#105046#106183#0" />
-            <element signature="e#106188#106199#0" />
-            <element signature="e#106356#108793#0" />
-            <element signature="e#108798#108809#0" />
-            <element signature="e#109151#109810#0" />
-            <element signature="e#109815#109826#0" />
-            <element signature="e#109985#110908#0" />
-            <element signature="e#110913#110924#0" />
-            <element signature="e#111207#111289#0" />
-            <element signature="e#111294#111305#0" />
-            <element signature="e#111604#113351#0" />
-            <element signature="e#113356#113367#0" />
-            <element signature="e#113823#114856#0" />
-            <element signature="e#114861#114872#0" />
-            <element signature="e#115157#117816#0" />
-            <element signature="e#117984#119367#0" />
-            <element signature="e#119613#121215#0" />
-            <element signature="e#121420#123140#0" />
-            <element signature="e#123379#124417#0" />
-            <element signature="e#124422#124431#0" />
-            <element signature="e#124725#125007#0" />
-            <element signature="e#125086#128269#0" />
-            <element signature="e#128353#129758#0" />
-            <element signature="e#129852#129946#0" />
-            <element signature="e#129951#129960#0" />
-            <element signature="e#130138#131649#0" />
-            <element signature="e#131712#131796#0" />
-            <element signature="e#131801#131810#0" />
-            <element signature="e#131978#132061#0" />
-            <element signature="e#132222#135448#0" />
-            <element signature="e#135605#135804#0" />
-            <element signature="e#135809#135819#0" />
-            <element signature="e#135605#136156#0" />
-            <element signature="e#136162#136362#0" />
-            <element signature="e#136162#136664#0" />
-            <element signature="e#136670#137031#0" />
-            <element signature="e#137110#138280#0" />
-            <element signature="e#138440#138452#0" />
-            <element signature="e#138457#141646#0" />
-            <element signature="e#141728#148566#0" />
-            <element signature="e#148662#150772#0" />
-            <element signature="e#148662#151259#0" />
-            <element signature="e#150900#150969#0" />
-            <element signature="e#151265#151525#0" />
-            <element signature="e#151622#151874#0" />
-            <element signature="e#151936#152160#0" />
-            <element signature="e#152228#152463#0" />
-            <element signature="e#152556#152807#0" />
-            <element signature="e#152871#153129#0" />
-            <element signature="e#153211#153479#0" />
-            <element signature="e#153545#153801#0" />
-            <element signature="e#153869#154123#0" />
-            <element signature="e#154185#154448#0" />
-            <element signature="e#154524#154857#0" />
-            <element signature="e#154935#155275#0" />
-            <element signature="e#155347#155580#0" />
-            <element signature="e#155648#155902#0" />
-            <element signature="e#155970#156167#0" />
-            <element signature="e#156243#156582#0" />
-            <element signature="e#156646#156878#0" />
-            <element signature="e#156942#157204#0" />
-            <element signature="e#157270#157541#0" />
-            <element signature="e#157618#157807#0" />
-            <element signature="e#157877#158109#0" />
-            <element signature="e#158177#158432#0" />
-            <element signature="e#158503#158769#0" />
-            <element signature="e#158845#159059#0" />
-            <element signature="e#159121#159433#0" />
-            <element signature="e#159506#159621#0" />
-            <element signature="e#159708#159915#0" />
-            <element signature="e#159977#160234#0" />
-            <element signature="e#160306#160320#0" />
-            <element signature="e#160394#160408#0" />
-            <element signature="e#160494#160747#0" />
-            <element signature="e#160807#161092#0" />
-            <element signature="e#161159#161433#0" />
-            <element signature="e#161504#161753#0" />
-            <element signature="e#161844#162090#0" />
-            <element signature="e#162095#162105#0" />
-            <element signature="e#162191#162572#0" />
-            <element signature="e#162647#162929#0" />
-            <element signature="e#162993#163267#0" />
-            <element signature="e#163335#163596#0" />
-            <element signature="e#163667#163942#0" />
-            <element signature="e#164004#164295#0" />
-            <element signature="e#164369#164622#0" />
-            <element signature="e#164698#164958#0" />
-            <element signature="e#165036#165322#0" />
-            <element signature="e#165388#165685#0" />
-            <element signature="e#165789#166055#0" />
-            <element signature="e#166121#166388#0" />
-            <element signature="e#166468#166732#0" />
-            <element signature="e#166794#167079#0" />
-            <element signature="e#167166#167452#0" />
-            <element signature="e#167522#167755#0" />
-            <element signature="e#167844#168059#0" />
-            <element signature="e#168135#168351#0" />
-            <element signature="e#168436#168632#0" />
-            <element signature="e#168702#168855#0" />
-            <element signature="e#168948#169084#0" />
-            <element signature="e#169160#169365#0" />
-            <element signature="e#169443#169693#0" />
-            <element signature="e#169772#169973#0" />
-            <element signature="e#170039#170155#0" />
-            <element signature="e#170231#170461#0" />
-            <element signature="e#170539#170726#0" />
-            <element signature="e#170791#170985#0" />
-            <element signature="e#171053#171242#0" />
-            <element signature="e#171315#171488#0" />
-            <element signature="e#171546#171737#0" />
-            <element signature="e#172013#172025#0" />
-            <element signature="e#172083#172403#0" />
-            <element signature="e#172461#172718#0" />
-            <element signature="e#172782#173079#0" />
-            <element signature="e#173170#173425#0" />
-            <element signature="e#173487#173752#0" />
-            <element signature="e#173818#174070#0" />
-            <element signature="e#174130#174419#0" />
-            <element signature="e#174496#174809#0" />
-            <element signature="e#174885#175142#0" />
-            <element signature="e#175207#175476#0" />
-            <element signature="e#175540#175736#0" />
-            <element signature="e#175798#176058#0" />
-            <element signature="e#176141#176416#0" />
-            <element signature="e#176490#176668#0" />
-            <element signature="e#176730#176994#0" />
-            <element signature="e#177062#177245#0" />
-            <element signature="e#177338#177590#0" />
-            <element signature="e#177663#177919#0" />
-            <element signature="e#177996#178360#0" />
-            <element signature="e#178469#178743#0" />
-            <element signature="e#178826#179118#0" />
-            <element signature="e#179202#179400#0" />
-            <element signature="e#179461#179688#0" />
-            <element signature="e#179759#179978#0" />
-            <element signature="e#180068#180330#0" />
-            <element signature="e#180398#180681#0" />
-            <element signature="e#180768#181015#0" />
-            <element signature="e#181092#181143#0" />
-            <element signature="e#181250#181343#0" />
-            <element signature="e#181431#181507#0" />
-            <element signature="e#181575#181659#0" />
-            <element signature="e#181740#181863#0" />
-            <element signature="e#181940#182199#0" />
-            <element signature="e#182265#182453#0" />
-            <element signature="e#182531#182724#0" />
-            <element signature="e#182807#183008#0" />
-            <element signature="e#183094#183282#0" />
-            <element signature="e#183377#184073#0" />
-            <element signature="e#184078#184143#0" />
-            <element signature="e#184273#184285#0" />
-            <element signature="e#184448#185480#0" />
-            <element signature="e#185485#185549#0" />
-            <element signature="e#185668#186358#0" />
-            <element signature="e#186363#186433#0" />
-            <element signature="e#186558#186985#0" />
-            <element signature="e#187101#187668#0" />
-            <element signature="e#187803#188712#0" />
-            <element signature="e#188836#189394#0" />
-            <element signature="e#189524#190998#0" />
-            <element signature="e#191124#192833#0" />
-            <element signature="e#192931#194082#0" />
-            <element signature="e#194210#195089#0" />
-            <element signature="e#195094#195159#0" />
-            <element signature="e#195322#195334#0" />
-            <element signature="e#195518#196351#0" />
-            <element signature="e#196356#196424#0" />
-            <element signature="e#196564#197210#0" />
-            <element signature="e#197215#197289#0" />
-            <element signature="e#197447#198434#0" />
-            <element signature="e#198439#198522#0" />
-            <element signature="e#198774#199586#0" />
-            <element signature="e#199732#200520#0" />
-            <element signature="e#200655#201253#0" />
-            <element signature="e#201394#202322#0" />
-            <element signature="e#202579#202591#0" />
-            <element signature="e#202596#202895#0" />
-            <element signature="e#202986#203686#0" />
-            <element signature="e#203755#204092#0" />
-            <element signature="e#204164#204395#0" />
-            <element signature="e#204462#204605#0" />
-            <element signature="e#204686#204833#0" />
-            <element signature="e#204918#205039#0" />
-            <element signature="e#205112#206271#0" />
-            <element signature="e#206436#206672#0" />
-            <element signature="e#206436#207030#0" />
-            <element signature="e#207036#207145#0" />
-            <element signature="e#207323#208015#0" />
-            <element signature="e#208146#208219#0" />
-            <element signature="e#208328#208401#0" />
-            <element signature="e#208515#209382#0" />
-            <element signature="e#209503#210492#0" />
-            <element signature="e#210574#212020#0" />
-            <element signature="e#212093#213309#0" />
-            <element signature="e#213401#213849#0" />
-            <element signature="e#213932#213956#0" />
-            <element signature="e#214004#214028#0" />
-            <element signature="e#214089#214283#0" />
-            <element signature="e#214353#214522#0" />
-            <element signature="e#214584#214774#0" />
-            <element signature="e#214855#214953#0" />
-            <element signature="e#215013#215037#0" />
-            <element signature="e#215174#215198#0" />
-            <element signature="e#215174#215420#0" />
-            <element signature="e#215426#215450#0" />
-            <element signature="e#215426#215597#0" />
-            <element signature="e#215603#215627#0" />
-            <element signature="e#215603#215762#0" />
-            <element signature="e#215768#215792#0" />
-            <element signature="e#215873#215897#0" />
-            <element signature="e#215873#215990#0" />
-            <element signature="e#215996#216020#0" />
-            <element signature="e#216108#216132#0" />
-            <element signature="e#216108#216273#0" />
-            <element signature="e#216279#216448#0" />
-            <element signature="e#216279#216901#0" />
-            <element signature="e#216506#216583#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="32" column="11" selection-start-line="32" selection-start-column="11" selection-end-line="32" selection-end-column="11" />
-        </state>
-      </provider>
-      <provider editor-type-id="android-manifest" />
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.realm/realm-gradle-plugin/5.9.0/96119c34df18291702e76beb7bcadf8e1f37407a/realm-gradle-plugin-5.9.0.jar!/io/realm/gradle/Realm.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gradle.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Android/Sdk/sources/android-28/android/content/ContextWrapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="114" column="19" selection-start-line="114" selection-start-column="19" selection-end-line="114" selection-end-column="19" />
-          <folding>
-            <element signature="e#3365#3366#0" expanded="true" />
-            <element signature="e#3417#3418#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/build/generated/source/greendao/com/caizhixing/poetrywidget/DaoMaster.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="665">
-          <caret line="50" column="22" selection-start-line="50" selection-start-column="22" selection-end-line="50" selection-end-column="22" />
+        <state relative-caret-position="176">
+          <caret line="134" column="35" selection-start-line="134" selection-start-column="35" selection-end-line="134" selection-end-column="35" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.greenrobot/greendao/3.2.2/4b0a727cd9b59a7550794f3bec8024cf271b15d/greendao-3.2.2-sources.jar!/org/greenrobot/greendao/AbstractDao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="589" column="19" selection-start-line="589" selection-start-column="19" selection-end-line="589" selection-end-column="19" />
+        <state relative-caret-position="461">
+          <caret line="175" column="14" selection-start-line="175" selection-start-column="14" selection-end-line="175" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/build/generated/source/greendao/com/caizhixing/poetrywidget/PoeteryDao.java">
+    <entry file="file://$USER_HOME$/AppData/Local/Android/Sdk/sources/android-28/java/util/List.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2385">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/caizhixing/poetry/db/PoeteryDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/caizhixing/poetry/db/DaoMaster.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Android/Sdk/sources/android-28/java/lang/Long.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="54" column="19" selection-start-line="54" selection-start-column="19" selection-end-line="54" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Documents/AndroidStudio/DeviceExplorer/xiaomi-mi_max-c2b048f1/data/data/com.caizhixing.poetrywidget/shared_prefs/poetry_widget_setting.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$USER_HOME$/Documents/AndroidStudio/DeviceExplorer/xiaomi-mi_max-c2b048f1/data/data/com.caizhixing.poetrywidget/shared_prefs/jinrishici.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="35" column="50" selection-start-line="35" selection-end-line="36" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/40841ef237c7cd7bc7086f5c968896a6/jars/classes.jar!/android/support/v7/widget/RecyclerView.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="4317" column="15" selection-start-line="4317" selection-start-column="15" selection-end-line="4317" selection-end-column="15" />
+        <state relative-caret-position="1653">
+          <caret line="110" column="17" selection-start-line="110" selection-start-column="17" selection-end-line="110" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.21/224a3bcfa1c088dd5d7c4a3958a68427b44c65dc/kotlin-stdlib-common-1.3.21-sources.jar!/kotlin/collections/Collections.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="68" column="15" selection-start-line="68" selection-start-column="15" selection-end-line="68" selection-end-column="15" />
+        <state relative-caret-position="290">
+          <caret line="97" column="22" selection-start-line="97" selection-start-column="22" selection-end-line="97" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Android/Sdk/sources/android-28/android/widget/Toast.java">
+    <entry file="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/a6670715cbe8aedb1c5df2e96acb0078/jars/classes.jar!/android/support/design/widget/Snackbar.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="268" column="24" selection-start-line="268" selection-start-column="24" selection-end-line="268" selection-end-column="24" />
+        <state relative-caret-position="-2109">
+          <caret line="36" column="19" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_poetry_detail_content_max.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="28" column="44" selection-start-line="28" selection-start-column="44" selection-end-line="28" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Android/Sdk/sources/android-28/android/view/MenuItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="180" column="24" selection-start-line="180" selection-start-column="24" selection-end-line="180" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Android/Sdk/sources/android-28/android/content/Context.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="576" column="24" selection-start-line="576" selection-start-column="24" selection-end-line="576" selection-end-column="24" />
           <folding>
-            <element signature="docComment;class#Toast#0" />
-            <element signature="docComment;class#Duration#0;class#Toast#0" />
-            <element signature="e#2642#2740#0" />
-            <element signature="docComment;field#LENGTH_SHORT#0;class#Toast#0" />
-            <element signature="docComment;field#LENGTH_LONG#0;class#Toast#0" />
-            <element signature="docComment;method#Toast#0;class#Toast#0" />
-            <element signature="docComment;method#Toast#1;class#Toast#0" />
-            <element signature="method#Toast#1;class#Toast#0" />
-            <element signature="docComment;method#show#0;class#Toast#0" />
-            <element signature="method#show#0;class#Toast#0" />
-            <element signature="docComment;method#cancel#0;class#Toast#0" />
-            <element signature="docComment;method#setView#0;class#Toast#0" />
-            <element signature="docComment;method#getView#0;class#Toast#0" />
-            <element signature="docComment;method#setDuration#0;class#Toast#0" />
-            <element signature="method#setDuration#0;class#Toast#0" />
-            <element signature="docComment;method#getDuration#0;class#Toast#0" />
-            <element signature="docComment;method#setMargin#0;class#Toast#0" />
-            <element signature="method#setMargin#0;class#Toast#0" />
-            <element signature="docComment;method#getHorizontalMargin#0;class#Toast#0" />
-            <element signature="docComment;method#getVerticalMargin#0;class#Toast#0" />
-            <element signature="docComment;method#setGravity#0;class#Toast#0" />
-            <element signature="method#setGravity#0;class#Toast#0" />
-            <element signature="docComment;method#getGravity#0;class#Toast#0" />
-            <element signature="docComment;method#getXOffset#0;class#Toast#0" />
-            <element signature="docComment;method#getYOffset#0;class#Toast#0" />
-            <element signature="docComment;method#getWindowParams#0;class#Toast#0" />
-            <element signature="docComment;method#makeText#0;class#Toast#0" />
-            <element signature="method#makeText#0;class#Toast#0" />
-            <element signature="docComment;method#makeText#1;class#Toast#0" />
-            <element signature="method#makeText#1;class#Toast#0" />
-            <element signature="docComment;method#makeText#2;class#Toast#0" />
-            <element signature="method#makeText#2;class#Toast#0" />
-            <element signature="docComment;method#setText#0;class#Toast#0" />
-            <element signature="docComment;method#setText#1;class#Toast#0" />
-            <element signature="method#setText#1;class#Toast#0" />
-            <element signature="e#10544#10634#0" />
-            <element signature="method#getService#0;class#Toast#0" />
-            <element signature="class#TN#0;class#Toast#0" />
-            <element signature="method#TN#0;class#TN#0;class#Toast#0" />
-            <element signature="e#11922#11987#0" />
-            <element signature="class#13135:14390" />
-            <element signature="method#handleMessage#0;class#13135:14390" />
-            <element signature="e#13597#13659#0" />
-            <element signature="e#13920#13982#0" />
-            <element signature="docComment;method#show#0;class#TN#0;class#Toast#0" />
-            <element signature="method#show#0;class#TN#0;class#Toast#0" />
-            <element signature="docComment;method#hide#0;class#TN#0;class#Toast#0" />
-            <element signature="method#hide#0;class#TN#0;class#Toast#0" />
-            <element signature="method#cancel#0;class#TN#0;class#Toast#0" />
-            <element signature="method#handleShow#0;class#TN#0;class#Toast#0" />
-            <element signature="e#15287#15351#0" />
-            <element signature="e#16066#16132#0" />
-            <element signature="e#17458#17523#0" />
-            <element signature="method#trySendAccessibilityEvent#0;class#TN#0;class#Toast#0" />
-            <element signature="e#18290#18345#0" />
-            <element signature="method#handleHide#0;class#TN#0;class#Toast#0" />
-            <element signature="e#18982#19039#0" />
-            <element signature="e#19407#19477#0" />
+            <element signature="e#24507#24508#0" expanded="true" />
+            <element signature="e#24561#24562#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/de7bdbf3018d61af6a41e5a9614889ec/jars/classes.jar!/android/support/v7/widget/Toolbar.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="645" column="68" selection-start-line="645" selection-start-column="68" selection-end-line="645" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/menu/setting_menu.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Android/Sdk/sources/android-28/android/os/Build.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="701" column="32" selection-start-line="701" selection-start-column="32" selection-end-line="701" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Android/Sdk/sources/android-28/android/view/View.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="26030" column="21" selection-start-line="26030" selection-start-column="21" selection-end-line="26030" selection-end-column="21" />
+        <state relative-caret-position="738">
+          <caret line="3398" column="28" selection-start-line="3398" selection-start-column="28" selection-end-line="3398" selection-end-column="28" />
           <folding>
-            <element signature="e#914928#914929#0" expanded="true" />
-            <element signature="e#914954#914955#0" expanded="true" />
+            <element signature="e#951141#951142#0" expanded="true" />
+            <element signature="e#951183#951184#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Android/Sdk/sources/android-28/android/content/Intent.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/caizhixing/poetrywidget/Utils.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="8561" column="59" selection-start-line="8561" selection-start-column="49" selection-end-line="8561" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jinrishici/android-sdk/1.1/ebd3b47be4298253f9ea7bb29d27ee4c5f012c7/android-sdk-1.1-sources.jar!/com/jinrishici/sdk/android/model/PoetySentence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="530">
-          <caret line="139" column="32" selection-start-line="139" selection-start-column="32" selection-end-line="139" selection-end-column="32" />
+        <state relative-caret-position="266">
+          <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
           <folding>
-            <element signature="e#2541#2542#0" expanded="true" />
-            <element signature="e#2566#2567#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer2" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_poetry_detail_content.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-18">
-          <caret column="38" selection-start-column="38" selection-end-column="38" />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer2" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_poetry_detail_content_max.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="438">
-          <caret line="38" column="41" selection-start-line="38" selection-start-column="41" selection-end-line="38" selection-end-column="41" />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer2" />
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.21/b8815e48fb45e94821287365bd9ce8623f459ac7/kotlin-stdlib-1.3.21-sources.jar!/kotlin/text/TypeAliases.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="12" column="44" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/caizhixing/poetrywidget/CustomApplication.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
-          <folding>
-            <element signature="e#37#158#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/caizhixing/poetrywidget/GreenDaoManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="430">
-          <caret line="27" column="40" lean-forward="true" selection-start-line="27" selection-start-column="40" selection-end-line="27" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/caizhixing/poetrywidget/MainActivity.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="27" column="36" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/caizhixing/poetrywidget/Poetery.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-323">
-          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1448#1449#0" expanded="true" />
-            <element signature="e#1494#1495#0" expanded="true" />
-            <element signature="e#1559#1560#0" expanded="true" />
-            <element signature="e#1607#1608#0" expanded="true" />
+            <element signature="e#37#177#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/caizhixing/poetrywidget/SettingActivity.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1425">
-          <caret line="80" column="57" selection-start-line="80" selection-start-column="57" selection-end-line="80" selection-end-column="57" />
+        <state relative-caret-position="266">
+          <caret line="31" column="56" lean-forward="true" selection-start-line="31" selection-start-column="56" selection-end-line="31" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/view_setting_checkbox_item.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Android/Sdk/sources/android-28/android/content/Intent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2228">
+          <caret line="8561" column="27" selection-start-line="8561" selection-start-column="27" selection-end-line="8561" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/6a74999f52decc376b3d05927badf137/jars/classes.jar!/android/support/v4/app/Fragment.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="672" column="16" selection-start-line="672" selection-start-column="16" selection-end-line="672" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Android/Sdk/sources/android-28/android/view/LayoutInflater.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="413" column="16" selection-start-line="413" selection-start-column="16" selection-end-line="413" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/caizhixing/poetrywidget/CustomApplication.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/caizhixing/poetrywidget/GreenDaoManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/caizhixing/poetrywidget/Poetery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-608">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/caizhixing/poetrywidget/PoetryDetailContentActivity.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="60" selection-start-line="16" selection-start-column="60" selection-end-line="16" selection-end-column="60" />
+        <state relative-caret-position="361">
+          <caret line="19" column="61" selection-start-line="19" selection-start-column="61" selection-end-line="19" selection-end-column="61" />
           <folding>
-            <element signature="e#37#180#0" expanded="true" />
+            <element signature="e#37#267#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/caizhixing/poetrywidget/OnePoetryWidget.kt">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/caizhixing/poetrywidget/MainActivity.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1976">
-          <caret line="104" column="85" selection-start-line="104" selection-start-column="85" selection-end-line="104" selection-end-column="85" />
-          <folding>
-            <element signature="e#37#587#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="38">
+          <caret line="24" column="20" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/caizhixing/poetrywidget/PoetryFragment.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+          <folding>
+            <element signature="e#37#261#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_setting_24dp.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/item_background_holo_light.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/selectable_item_background.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_setting.xml">
+      <provider editor-type-id="android-designer2" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="151" column="68" selection-start-line="151" selection-start-column="68" selection-end-line="151" selection-end-column="68" />
+        <state relative-caret-position="228">
+          <caret line="12" column="50" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="50" />
         </state>
       </provider>
-      <provider editor-type-id="android-designer2" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/view_poetry_text.xml">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_poetry_detail_content.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="31" column="29" selection-start-line="31" selection-start-column="29" selection-end-line="31" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_poetry_view_detail.xml">
+      <provider editor-type-id="android-designer2" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
-          <caret line="6" column="64" selection-start-line="6" selection-start-column="64" selection-end-line="6" selection-end-column="64" />
+          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
         </state>
       </provider>
-      <provider editor-type-id="android-designer2" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/view_setting_checkbox_item.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="64" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="64" />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer2" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/selectable_item_background.xml">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/view_setting_switch_item.xml">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="64" selection-start-line="9" selection-start-column="64" selection-end-line="9" selection-end-column="64" />
+        <state relative-caret-position="114">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
         </state>
       </provider>
-      <provider editor-type-id="android-designer2" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/view_poetry_item.xml">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/caizhixing/poetrywidget/OnePoetryWidgetWhite.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="42" selection-start-line="3" selection-start-column="42" selection-end-line="3" selection-end-column="42" />
+        <state relative-caret-position="266">
+          <caret line="35" column="85" selection-start-line="35" selection-start-column="85" selection-end-line="35" selection-end-column="85" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider editor-type-id="android-manifest" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="44" column="64" selection-start-line="44" selection-start-column="64" selection-end-line="44" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/preview_text_white.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/xml/poetry_widget_provider_black.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="44" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/xml/poetry_widget_provider_white.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="67" selection-start-line="8" selection-start-column="67" selection-end-line="8" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
       <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="40" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="72" selection-start-line="4" selection-start-column="72" selection-end-line="4" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/caizhixing/poetrywidget/OnePoetryWidgetBlack.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="63" column="141" selection-start-line="63" selection-start-column="141" selection-end-line="63" selection-end-column="141" />
+          <folding>
+            <element signature="e#2417#2459#0" expanded="true" />
+            <element signature="e#2815#2857#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/caizhixing/poetrywidget/PoetryAdapter.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="449">
-          <caret line="24" column="42" lean-forward="true" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
+        <state relative-caret-position="266">
+          <caret line="23" column="86" selection-start-line="23" selection-start-column="86" selection-end-line="23" selection-end-column="86" />
           <folding>
             <element signature="e#37#233#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/view_poetry_item.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/view_poetry_text_widget_black.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="46" lean-forward="true" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/view_poetry_text_widget_white.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="17" lean-forward="true" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+          <folding>
+            <element signature="e#564#588#0" expanded="true" />
           </folding>
         </state>
       </provider>

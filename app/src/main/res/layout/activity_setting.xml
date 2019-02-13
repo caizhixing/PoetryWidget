@@ -3,7 +3,18 @@
         xmlns:android="http://schemas.android.com/apk/res/android"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
         android:orientation="vertical">
+
+    <android.support.v7.widget.Toolbar
+            android:id="@+id/my_setting_toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="?attr/colorPrimary"
+            android:elevation="4dp"
+            android:theme="@style/ThemeOverlay.AppCompat.ActionBar"
+            app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
+            app:title="桌面小部件设置"/>
 
     <RelativeLayout
             android:layout_width="match_parent"
@@ -17,7 +28,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_centerVertical="true"
-                android:layout_marginStart="8dp"
+                android:layout_marginStart="18dp"
                 android:textSize="16sp"
                 android:textColor="@color/black"
                 android:text="@string/setting_enable_click"
@@ -43,7 +54,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_centerVertical="true"
-                android:layout_marginStart="8dp"
+                android:layout_marginStart="18dp"
                 android:textSize="16sp"
                 android:textColor="@color/black"
                 android:text="@string/setting_enable_auto_fresh"
@@ -68,7 +79,7 @@
         <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginStart="8dp"
+                android:layout_marginStart="18dp"
                 android:textSize="16sp"
                 android:textColor="@color/black"
                 android:text="@string/setting_auto_fresh_period"
@@ -77,7 +88,7 @@
                 android:id="@+id/radio_group_period"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_marginStart="8dp"
+                android:layout_marginStart="18dp"
                 android:orientation="horizontal">
             <RadioButton
                     android:id="@+id/radio_button_period_0"
@@ -111,7 +122,7 @@
         <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginStart="8dp"
+                android:layout_marginStart="18dp"
                 android:textSize="16sp"
                 android:textColor="@color/black"
                 android:text="@string/setting_text_size"
@@ -120,7 +131,7 @@
                 android:id="@+id/radio_group_text_size"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_marginStart="8dp"
+                android:layout_marginStart="18dp"
                 android:orientation="horizontal">
             <RadioButton
                     android:id="@+id/radio_button_text_size_0"
@@ -154,7 +165,7 @@
         <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginStart="8dp"
+                android:layout_marginStart="18dp"
                 android:textSize="16sp"
                 android:textColor="@color/black"
                 android:text="@string/setting_text_color"
@@ -163,7 +174,7 @@
                 android:id="@+id/radio_group_text_color"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_marginStart="8dp"
+                android:layout_marginStart="18dp"
                 android:orientation="horizontal">
             <RadioButton
                     android:id="@+id/radio_button_text_color_0"

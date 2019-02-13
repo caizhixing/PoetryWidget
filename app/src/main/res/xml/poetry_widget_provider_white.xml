@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+                    android:minWidth="400dp"
+                    android:minHeight="50dp"
+                    android:minResizeHeight="400dp"
+                    android:minResizeWidth="50dp"
+                    android:resizeMode="none"
+                    android:updatePeriodMillis="1800000"
+                    android:initialLayout="@layout/view_poetry_text_widget_white"
+                    android:previewImage="@drawable/preview_text_white"
+                    android:autoAdvanceViewId="@drawable/preview_text_white"
+                    android:widgetFeatures="">
+
+</appwidget-provider>

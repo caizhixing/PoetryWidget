@@ -32,6 +32,8 @@ class SettingActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_setting)
+        setSupportActionBar(findViewById(R.id.my_setting_toolbar))
+        Utils.fixStatusBar(this)
 
         mSharedPreferences = getSharedPreferences(SETTING, Context.MODE_PRIVATE)
         mIsClick = mSharedPreferences.getBoolean(IS_ENABLE_CLICK, false)

@@ -9,7 +9,7 @@
             android:label="@string/app_name"
             android:roundIcon="@mipmap/ic_launcher_round"
             android:supportsRtl="true"
-            android:theme="@style/AppTheme">
+            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar">
         <activity android:name=".PoetryDetailContentActivity">
         </activity>
         <activity android:name=".MainActivity">
@@ -22,15 +22,27 @@
         <activity android:name=".SettingActivity"/>
 
         <receiver
-                android:name=".OnePoetryWidget"
-                android:label="@string/widget_label">
+                android:name=".OnePoetryWidgetBlack"
+                android:label="@string/widget_label_black">
             <intent-filter>
                 <action android:name="android.appwidget.action.APPWIDGET_UPDATE"/>
             </intent-filter>
 
             <meta-data
                     android:name="android.appwidget.provider"
-                    android:resource="@xml/poetry_widget_provider"/>
+                    android:resource="@xml/poetry_widget_provider_black"/>
+        </receiver>
+
+        <receiver
+                android:name=".OnePoetryWidgetWhite"
+                android:label="@string/widget_label_white">
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE"/>
+            </intent-filter>
+
+            <meta-data
+                    android:name="android.appwidget.provider"
+                    android:resource="@xml/poetry_widget_provider_white"/>
         </receiver>
     </application>
 

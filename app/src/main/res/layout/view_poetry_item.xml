@@ -13,7 +13,7 @@
             android:layout_height="match_parent"
             android:textSize="18sp"
             android:gravity="center_vertical"
-            android:layout_marginStart="8dp"
+            android:layout_marginStart="18dp"
             android:maxLines="1"
             android:ellipsize="end"
             tools:text="@string/poetry_example"/>
